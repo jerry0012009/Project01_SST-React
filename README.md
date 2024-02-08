@@ -8,16 +8,12 @@ https://github.com/sst/sst/tree/master/examples/react-app
 
 # I Made comments in these file 
 # to record my learning progress
-[/comments/...
-](https://github.com/jerry0012009/Project01_SST-React/blob/master/comments/Packages_frontend_src_App.js
+
+https://github.com/jerry0012009/Project01_SST-React/blob/master/comments/Packages_frontend_src_App.js
 
 https://github.com/jerry0012009/Project01_SST-React/blob/master/comments/Packages_functions_lambda_src.ts
 
 https://github.com/jerry0012009/Project01_SST-React/blob/master/comments/Packages_stacks_ExampleStack.ts
-)https://github.com/jerry0012009/Project01_SST-React/blob/master/comments/Packages_frontend_src_App.js
 
-https://github.com/jerry0012009/Project01_SST-React/blob/master/comments/Packages_functions_lambda_src.ts
-
-https://github.com/jerry0012009/Project01_SST-React/blob/master/comments/Packages_stacks_ExampleStack.ts
 
 
